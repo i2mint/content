@@ -1,6 +1,4 @@
 name, description, url
-investate, Tools to find the value over time of various investments mainly to compare with real estate investment,
-name, description, url
 dexis, "Data Lexis", https://github.com/i2mint/dexis
 meshed, "Link functions up into callable objects (DAGs)", https://github.com/i2mint/meshed
 dagapp, "Making apps from DAGs by just snapping your fingers", https://github.com/i2mint/dagapp
