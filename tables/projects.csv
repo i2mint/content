@@ -17,7 +17,6 @@ dacc, "A declarative approache to data access object construction", https://gith
 hear, "https://github.com/otosense/hear", https://github.com/otosense/hear
 verb, "Easy make mini-languages to do python things.", https://github.com/i2mint/verb
 dagapp, "Making apps from DAGs by just snapping your fingers", https://github.com/i2mint/dagapp
-allude, "Building precise functionality from vague specifications", https://github.com/i2mint/allude
 tested, "Python test utils", https://github.com/i2mint/tested
 py2json, "Tools for json serialization of python objects", https://github.com/i2mint/py2json
 embody, "Generate templated objects", https://github.com/i2mint/embody
@@ -47,6 +46,5 @@ splatter, "Vizualizing multidimensional points in a pleasing and informative way
 oui_notebook, "Highly reusable UI components for sound recognition", https://github.com/otosense/oui_notebook
 taped, "Python's serene audio accessor", https://github.com/otosense/taped
 know, "Funnel live streams of data into storage and other processes", https://github.com/otosense/know
-haggle, "A facade to Kaggle data", https://github.com/otosense/haggle
 atypes, "Abstractions for signal machine learning.", https://github.com/otosense/atypes
 hum, "Generate synthetic signals for ML pipelines", https://github.com/otosense/hum
