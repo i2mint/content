@@ -36,7 +36,6 @@
 |slang       |A structural approach to signal ML                                                                                               |https://github.com/otosense/slang       |
 |oplot       |Plotting tools for audio analysis                                                                                                |https://github.com/otosense/oplot       |
 |forged      |Tools for data generation                                                                                                        |https://github.com/otosense/forged      |
-|omisc       |https://github.com/otosense/hear                                                                                                 |https://github.com/otosense/omisc       |
 |recode      |Tools to make codecs for time-series serialization and deserialization.                                                          |https://github.com/otosense/recode      |
 |ooq         |Quick access to code favorites                                                                                                   |https://github.com/otosense/ooq         |
 |viable      |Diagnose source data for sound recognition ML                                                                                    |https://github.com/otosense/viable      |
@@ -49,3 +48,4 @@
 |know        |Funnel live streams of data into storage and other processes                                                                     |https://github.com/otosense/know        |
 |atypes      |Abstractions for signal machine learning.                                                                                        |https://github.com/otosense/atypes      |
 |hum         |Generate synthetic signals for ML pipelines                                                                                      |https://github.com/otosense/hum         |
+|config2py   |Simplified reading and writing configurations from various sources and formats                                                  |https://github.com/i2mint/config2py       |
